@@ -2,8 +2,10 @@
 # Attendance Management System
 
 Welcome to the Attendance Management System! This application is built using Tkinter and provides a user-friendly graphical interface to register new students and take attendance. It also displays the total number of registered students at the bottom of the application.
-<img width="811" alt="Screen Shot 2023-06-05 at 12 19 52" src="https://github.com/shiiikha/Attendance/assets/91041684/b1981521-0a93-4734-80a8-fb1<img width="805" alt="Screen Shot 2023-06-05 at 12 22 18" src="https://github.com/shiiikha/Attendance/assets/91041684/16e614ea-4155-4b06-ace2-7e9a20f84989">
-c1e1b57a5">
+<img width="811" alt="Screen Shot 2023-06-05 at 12 19 52" src="https://github.com/shiiikha/Attendance/assets/91041684/b1981521-0a93-4734-80a8-fb1c1e1b57a5">
+                                                              
+                                                               <img width="805" alt="Screen Shot 2023-06-05 at 12 22 18" src="https://github.com/shiiikha/Attendance/assets/91041684/16e614ea-4155-4b06-ace2-7e9a20f84989">
+
 <img width="685" alt="Screen Shot 2023-06-05 at 12 22 27" src="https://github.com/shiiikha/Attendance/assets/91041684/9d676469-1f6e-45f9-96ce-ae66fc58ab85">
 <img width="804" alt="Screen Shot 2023-06-05 at 12 22 41" src="https://github.com/shiiikha/Attendance/assets/91041684/1cb76b66-10e3-4611-bc07-9d3b765d7a7b">
 
