@@ -2,6 +2,7 @@
 # Attendance Management System
 
 Welcome to the Attendance Management System! This application is built using Tkinter and provides a user-friendly graphical interface to register new students and take attendance. It also displays the total number of registered students at the bottom of the application.
+![examination management system](https://github.com/shiiikha/Attendance/assets/91041684/b8e51938-4bdb-47a1-b888-5e29772ebe3a)
 
 ## Features
 
