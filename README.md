@@ -23,9 +23,8 @@ Welcome to the Attendance Management System! This application is built using Tki
 
 To use this application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/shiiikha/Attendance.git`
-2. Run the `main.py` file using Python: `python main.py`
-3. The application window will open, allowing you to register new students and take attendance.
+1. Copy paste the code on Python: `git clone https://github.com/shiiikha/Attendance.git`
+
 
 Feel free to explore the code, make modifications, or add new features based on your requirements.
 
